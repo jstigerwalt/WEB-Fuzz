@@ -2,7 +2,7 @@
 
 List of Web fuzzing resoucres 
 
-LFI Log File Master List 
+# LFI Log File Master List 
 
 
-Contains some config files
+- Contains some config files
