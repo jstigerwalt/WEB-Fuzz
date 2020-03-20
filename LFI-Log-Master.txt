@@ -1,3 +1,6 @@
+/var/log/messages.0
+/var/log/messages.1
+/var/log/messages.2
 /etc/httpd/logs/access.log
 /etc/httpd/logs/access_log
 /etc/httpd/logs/error.log
